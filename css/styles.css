@@ -22,3 +22,15 @@
   font-weight: 700;
   font-style: normal;
 }
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
