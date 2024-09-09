@@ -52,6 +52,10 @@ button {
   color: #434455;
 }
 
+.section3 {
+  background-color: #F4F4FD;
+}
+
 .section3-title {
   font-weight: 700;
   font-size: 36px;
@@ -67,6 +71,10 @@ button {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.section3-item {
+  background-color: #FFFFFF;
 }
 
 .section3-par {
