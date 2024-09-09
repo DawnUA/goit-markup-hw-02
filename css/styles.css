@@ -23,7 +23,7 @@ button {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.07;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -37,7 +37,7 @@ button {
   color: #f4f4fd;
 }
 
-.section2-subitems {
+.priorities-header {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -45,18 +45,18 @@ button {
   color: #2e2f42;
 }
 
-.section2-par {
+.priorities-par {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.section3 {
+.section-team {
   background-color: #F4F4FD;
 }
 
-.section3-title {
+.team-header {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11111;
@@ -65,7 +65,7 @@ button {
   color: #2e2f42;
 }
 
-.section3-subtitle {
+.member-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -73,11 +73,11 @@ button {
   color: #2e2f42;
 }
 
-.section3-item {
+.team-item {
   background-color: #FFFFFF;
 }
 
-.section3-par {
+.member-par {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -117,7 +117,7 @@ button {
 .prime-name {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -141,7 +141,7 @@ button {
   color: #fff;
 }
 
-.h3-name {
+.portfolio-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -149,7 +149,7 @@ button {
   color: #2e2f42;
 }
 
-.h3-text {
+.portfolio-par {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -161,6 +161,13 @@ button {
 }
 
 .page-footer {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+
+.footer-par {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
