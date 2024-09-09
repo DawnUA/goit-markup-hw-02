@@ -16,6 +16,7 @@ a {
 
 button {
   cursor: pointer;
+  font-family: inherit;
 }
 
 .header-logo,
